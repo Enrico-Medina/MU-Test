@@ -3,6 +3,7 @@ import streamlit as st
 st.set_page_config(page_title="MU Fest")
 st.title("Bem-vindo ao MU Fest!")
 st.write("Explore os melhores eventos e aproveite ao máximo!")
+st.image("mu_fest.png")
 
 # Login
 st.title("Login")
