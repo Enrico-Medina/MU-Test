@@ -1,4 +1,4 @@
-pip install streamlit as st
+!pip install streamlit as st
 
 st.set_page_config(page_title="MU Fest")
 st.title("Bem-vindo ao MU Fest!")
